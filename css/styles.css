@@ -25,68 +25,129 @@ nav {
   position: relative;
 }
 
+.title1 {
+  top: 200px;
+  left: 100px;
+  right: 100px;
+  vertical-align: middle;
+  font-family: 'Poppins', sans-serif;
+  font-size: 100px;
+  color: #FF702A;
+  font-weight: 300;
+}
+
+.sub1 {
+  font-family: 'Poppins', sans-serif;
+  color:  #FAFAFA;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.title2 {
+  position: absolute;
+  top: 700px;
+  left: 100px;
+  right: 100px;
+  vertical-align: middle;
+  font-family: 'Poppins', sans-serif;
+  font-size: 100px;
+  color: #FF702A;
+  font-weight: 300;
+}
+
+
 .pag1 {
     justify-content: center;
+    position: relative;
     margin: 20px 20px 20px 20px;
     left: 100px;
     right: 100px;
+    top: 10%;
 }
 
 .imghome {
     justify-content: right;
     vertical-align: middle;
     right: 300px;
-    top: 150px;
     position: absolute;
     width: 600px;
     height: 600px;
 }
 
-.texto {
+.texto1 {
     justify-content: left;
     position: absolute;
     vertical-align: middle;
     left: 300px;
-    top: 300px;
-}
-
-.title1 {
     top: 200px;
-    left: 100px;
-    right: 100px;
-    vertical-align: middle;
-    font-family: 'Poppins', sans-serif;
-    font-size: 100px;
-    color: #FF702A;
-    font-weight: 300;
-}
-
-.sub1 {
-    font-family: 'Poppins', sans-serif;
-    color:  #FAFAFA;
-    font-weight: 300;
-    font-size: 20px;
 }
 
 .pag2 {
     justify-content: center;
+    position: relative;
     position: static;
     left: 100px;
     right: 100px;
+    top: 20%;
 }
 
-.title2 {
-    position: absolute;
-    top: 700px;
-    left: 100px;
-    right: 100px;
-    vertical-align: middle;
-    font-family: 'Poppins', sans-serif;
-    font-size: 100px;
-    color: #FF702A;
-    font-weight: 300;
+.imgabout {
+  justify-content: left;
+  vertical-align: middle;
+  left: 400px;
+  top: 100%;
+  position: absolute;
+  width: 600px;
+  height: 600px;
 }
 
+.texto2 {
+  justify-content: right;
+  text-align: right;
+  position: absolute;
+  vertical-align: middle;
+  right: 300px;
+  top: 30%;
+}
+
+.pag3 {
+  justify-content: center;
+  position: relative;
+  position: static;
+  left: 100px;
+  right: 100px;
+  top: 40%;
+}
+
+.container1 {
+  position: absolute;
+  top: 30%;
+}
+
+.contenedor1 {
+  background-color: #FAFAFA;
+  border-style:groove;
+  width: 300px;
+  height: 300px;
+  top: 50%;
+  position: absolute;
+}
+
+.contenedor2 {
+  background-color: #FAFAFA;
+  border-style:groove;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+}
+
+.contenedor3 {
+  background-color: #FAFAFA;
+  border-style:groove;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+}
 
 /* responsive */
 nav.active {
