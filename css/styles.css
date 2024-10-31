@@ -85,7 +85,6 @@ nav {
 .pag2 {
     justify-content: center;
     position: relative;
-    position: static;
     left: 100px;
     right: 100px;
     top: 20%;
