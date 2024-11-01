@@ -290,7 +290,7 @@ nav {
   font-size: 30px;
   color: #1B1A26;
   font-weight: bold;
-  left: 540px;
+  left: 50px;
   padding-bottom: 20px;
 }
 
@@ -301,12 +301,12 @@ footer {
 }
 
 
-.footer-container {
+.footercontainer {
   text-align: center; 
 }
 
 
-.footer-section {
+.footersection {
   display: inline-block; 
   width: 23%; 
   vertical-align: top; 
@@ -331,7 +331,7 @@ footer {
   text-align: center;
   position: absolute;
   vertical-align: middle;
-  width: 100%;
+  width: 80%;
   height: 200px;
   background-color: #FAFAFA;
 }
@@ -345,51 +345,42 @@ footer {
   top: 1900px;
   color: white;
 }
-.footer-section {
+.footersection {
   position: absolute;
   width: 20%;
 }
-.menu-links {
+.menulinks {
   left: 5%;
 
 }
 
-.menu-links a{
+.menulinks a{
   text-decoration: none;
   color:white;
 }
-.our-service {
+.ourservice {
   left: 30%;
 }
 .information {
   left: 55%;
 }
-.contact-us {
+.contactus {
   left: 80%;
 }
-.footer-section h3 {
+.footersection h3 {
  
   padding-bottom: 5px;
   margin-bottom: 10px;
 }
-.footer-section ul {
+.footersection ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-.footer-section li {
+.footersection li {
   margin: 5px 0;
 }
-.contact-us-icons {
-  display: flex;
-  gap: 5px;
-}
-.contact-us-icons div {
-  width: 10px;
-  height: 10px;
-  background-color: #ff702a;
-  border-radius: 50%;
-}
+
 
 
 
