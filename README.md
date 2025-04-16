@@ -1,6 +1,6 @@
 # Venta-de-hamburguesas
 Página estática de venta de hamburguesas artesanales:
-https://ventahamburguesass.netlify.app/
+https://merliariza.github.io/Venta-de-hamburguesas/
 
 ## Funcionalidad
 Está diseñado como una página estática sin funcionalidad dinámica. No es responsive, por lo que se muestra solo en escritorio. La navegación es sencilla e intuitiva.
